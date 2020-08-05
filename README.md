@@ -1,6 +1,7 @@
 # l01-ex02
 
-- Status: Pending
+-  Status: Pending
+-  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 
 ## Contents
 
@@ -11,7 +12,7 @@
 ---
 ## Description
 
-Partner Exercise: Kasserole
+### Lesson 1: Partner Exercise: Kässerole
 
 Your goal is to experiment with formatting content in HTML. Fork the CodePen as your own. Then, code away! Add the hyperlinks properly, reference the image, create metadata, and get a real webpage going.
 
