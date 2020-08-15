@@ -1,6 +1,7 @@
 # l01-ex02
 
 -  Status: Pending
+-  CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
 -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 
 ## Contents
