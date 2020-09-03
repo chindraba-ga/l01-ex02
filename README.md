@@ -1,6 +1,6 @@
 # l01-ex02
 
--  Status: Submitted
+-  Status: Final
 -  CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
 -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 
